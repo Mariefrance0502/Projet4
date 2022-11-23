@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #FFF;
+    background: #000000;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -506,7 +506,7 @@ a[data-lightbox]:hover::before {
     margin-left: -25px;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
-    color: #FFF;
+    color: #000000;
     font-weight: 100;
     z-index: 1;
     position: absolute;
@@ -539,7 +539,7 @@ a[data-lightbox]:hover img {
 
 .lightbox-caption {
     padding: 20px;
-    color: #FFF;
+    color: #000000;
     background: rgba(0, 0, 0, .5);
     position: absolute;
     left: 15px;
@@ -548,7 +548,7 @@ a[data-lightbox]:hover img {
 }
 
 .close-lightbox {
-    color: #FFF;
+    color: #000000;
     font-size: 30px;
     position: absolute;
     top: 20px;
@@ -565,7 +565,7 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
     opacity: 1.0;
-    color: #FFF;
+    color: #000000;
 }
 
 .next-lightbox,
@@ -652,7 +652,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -674,7 +674,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #000000!important;
 }
 
 .med-width-whitespace {
@@ -684,11 +684,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 h4 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 .icons {
@@ -697,13 +697,13 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
     font-size: 22px;
 }
 
 .black
 {
-    color: white;
+    color: #000000;
     font-weight: bold;
     font-size: 22px;
 }
@@ -711,8 +711,7 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
     border: 2px solid black;
-    width: 450px;
-    height: 270px;
+   
 }
 
 .portfolio-row {
@@ -747,27 +746,27 @@ h4 {
 }
 
 .bgc-atomic-tangerine a {
-   color: white;
+   color: #000000;
    font-size: 18px;
   
 }
 .bgc-atomic-tangerine p {
-    color: white;
+    color: #000000;
     font-size: 20px;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white:hover {
