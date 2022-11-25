@@ -647,11 +647,16 @@ h5,
 h6,
 p,
 label,
-.btn,
+.btn {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #141414;
+}
+
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #141414; 
 }
 
 .container {
@@ -730,6 +735,19 @@ h4 {
     color: #333333!important;
 }
 
+
+.text-image
+{
+font-size: 24px;
+color: #141414;
+}
+
+.text-center-citation
+{
+font-size: 18px;
+color: #141414;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
@@ -737,6 +755,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 16px;
 }
 
 .portfolio-thumb {
@@ -771,11 +790,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #FA9A71;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FA9A71!important;
 }
 
 .btn-atomic-tangerine {
